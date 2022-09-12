@@ -4,7 +4,7 @@ There are 18828 documents with 20 different types.
 
 Each document needs to be classified based on its type.
 
-In this project i have used CNN to classify the documents.
+In this project I have used CNN to classify the documents.
 
 Each document consists of an email, subject and text .
 
